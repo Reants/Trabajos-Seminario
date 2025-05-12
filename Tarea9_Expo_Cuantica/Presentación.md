@@ -1,4 +1,10 @@
 ---
+theme: gaia
+_class: lead
+paginate: true
+backgroundColor: #fff
+
+---
 
 # Computación Cuántica  
 ## Avances, Retos y Realidades  
