@@ -1,6 +1,4 @@
 ---
-backgroundColor: #fff
----
 
 # Computación Cuántica  
 ## Avances, Retos y Realidades  
