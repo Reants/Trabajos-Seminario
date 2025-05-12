@@ -1,4 +1,6 @@
+---
 
+backgroundColor: #fff
 ---
 
 # Computación Cuántica  
