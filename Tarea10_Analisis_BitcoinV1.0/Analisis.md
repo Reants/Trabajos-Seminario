@@ -1,11 +1,11 @@
 # 🧠 Análisis del código de Bitcoin v0.1
 
 Explorar el código de **Bitcoin v0.1** es como revisar el primer plano de una máquina que hoy mueve miles de millones en el mundo digital; fue publicado por **Satoshi Nakamoto** en 2009 y tiene un aire experimental que combina visión con simplicidad [1].  
-Lo primero que salta a la vista es lo compacto del código: todo está metido en unos pocos archivos y sin modularidad clara, como si se tratara de un prototipo funcional más que de un sistema listo para escalar.
+Lo primero que resalta es lo compacto del código: todo está metido en unos pocos archivos y sin modularidad clara, como si se tratara de un prototipo funcional más que de un sistema listo para escalar.
 
 En esa versión inicial, por ejemplo, se podían enviar bitcoins directamente a una **IP**, algo que hoy sería impensable por razones de seguridad y descentralización.  
 También hay ausencia de **pruebas automatizadas** y ni hablar de documentación completa. Los comentarios son escasos y el manejo de errores muy limitado.  
-Sin embargo, eso no le resta valor al trabajo: en ese momento, la idea era probar que el sistema **podía funcionar**, no que fuera perfecto [2].
+Sin embargo, es posible destacar que en ese momento, la idea era probar que el sistema **podía funcionar**, no que fuera perfecto [2].
 
 Lo que sí es impresionante es cómo ya estaba integrada la lógica de los **scripts** que permiten ejecutar condiciones dentro de las transacciones, lo que luego sería clave para sistemas como **Lightning Network** o contratos simples.  
 También aparece la codificación **Base58** para las direcciones, algo muy bien pensado porque evita errores humanos con letras que se parecen, como la '0' y la 'O' [3].
