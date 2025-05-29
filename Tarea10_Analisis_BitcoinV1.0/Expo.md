@@ -31,8 +31,7 @@ Es un fragmento de historia viva, escrito en **C++**, sin tests, sin frameworks 
 
 ---
 
-## 📚 Referencias (formato IEEE)
-
+## 📚 Referencias 
 [1] S. Nakamoto, *Bitcoin v0.1*, GitHub, [Repositorio de código], 2009.  
 [2] A. B. Antonopoulos, *Mastering Bitcoin: Unlocking Digital Cryptocurrencies*, 2nd ed., O’Reilly Media, 2017.  
 [3] N. Szabo, “Formalizing and Securing Relationships on Public Networks,” *First Monday*, vol. 2, no. 9, 1997.  
